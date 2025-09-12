@@ -1,4 +1,4 @@
-# <img src="https://raw.githubusercontent.com/<username>/<repo>/main/ai-by-tec-logo.jpeg" alt="AI BY TEC Logo" width="200">Welcome to AIBYTEC
+Welcome to AIBYTEC
 
 <p align="center">
   <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" alt="Coder at computer" width="160"/>
