@@ -24,7 +24,7 @@ Our team is passionate about transforming ideas into impactful AI applications f
 
 ## 💼 About AIBYTEC
 
-At AIBYTEC, we bring together expertise in machine learning, computer vision, NLP, and cloud engineering to build AI systems that solve real-world problems. We work across multiple industries—including healthcare, finance, education, and automation.
+At AIBYTEC, we bring together expertise in machine learning, computer vision, NLP, and cloud engineering to build AI systems that solve real-world problems. We work across multiple industries including healthcare, finance, education, and automation.
 
 ### 🔍 What We Do
 - 🚀 **Custom AI/ML Solutions** – Model development tailored to your business needs  
@@ -37,7 +37,7 @@ At AIBYTEC, we bring together expertise in machine learning, computer vision, NL
 
 ## 🎯 Our Mission
 
-> **To make AI accessible, actionable, and transformative — one solution at a time.**
+> **To make AI accessible, actionable, and transformative one solution at a time.**
 
 We aim to empower businesses through the responsible and innovative use of artificial intelligence.
 
@@ -45,7 +45,7 @@ We aim to empower businesses through the responsible and innovative use of artif
 
 ## 🛠️ Our Technology Stack
 
-We use cutting-edge tools and frameworks to ensure performance, scalability, and innovation.
+We make use of modern frameworks and tools to guarantee innovation, scalability, and performance.
 
 ### 🧪 Core Languages & Frameworks
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -97,7 +97,7 @@ Whether you're a startup, enterprise, or research group, we’re always looking 
 
 ## 🧠 Quote We Live By
 
-> “Artificial Intelligence is not the future — it’s the present we create every day.”
+> “Artificial Intelligence is not the future it’s the present we create every day.”
 
 ---
 
