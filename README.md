@@ -1,4 +1,8 @@
-Welcome to AIBYTEC
+<div style="display: flex; align-items: center; justify-content: center; gap: 12px; margin-top: 20px;">
+  <img src="https://github.com/AIBYTECH/aibytech/blob/d88312a829ebf11f69039cb1c888b515889abff1/AI_BY_TEC_Logo.jpg?raw=true" 
+       alt="AIBYTEC Logo" style="width: 50px; height: 50px; border-radius: 8px;">
+  <span style="font-size: 22px; font-weight: bold; color: white;">Welcome to AIBYTEC</span>
+</div>
 
 <p align="center">
   <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" alt="Coder at computer" width="160"/>
